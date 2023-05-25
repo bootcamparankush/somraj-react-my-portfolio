@@ -8,7 +8,7 @@ const styles = {
   },
   containerStyle: {
     padding: "20px",
-    background: "#222831",
+    background: "gray",
     opacity: "0.9",
     color: "lightblue",
     borderRadius: "5px ",
@@ -43,7 +43,7 @@ export default function Portfolio() {
               href="https://project-nexus.herokuapp.com/"
             >
               <img
-                src="./assets/images/project-nexus.jpg"
+                src="../../assets/images/project-nexus.jpg"
                 className="img-thumbnail"
                 alt="Project Nexus"
               />

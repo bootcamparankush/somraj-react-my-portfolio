@@ -3,7 +3,7 @@ import React from "react";
 const styles = {
   cardBodyStyle: {
     padding: "10px",
-    background: "#222831",
+    background: "gray",
     opacity: "0.9",
     color: "lightblue",
     paddingBottom: "50px",

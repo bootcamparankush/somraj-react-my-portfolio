@@ -4,9 +4,9 @@ import { validateEmail } from "../utils/helpers";
 const styles = {
   cardBodyStyle: {
     padding: "10px",
-    background: "#222831",
+    background: "gray",
     opacity: "0.9",
-    color: "lightblue",
+    color: "black",
     paddingBottom: "50px",
   },
   formStyle: {

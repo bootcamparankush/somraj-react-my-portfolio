@@ -1,6 +1,5 @@
 {
-    "name": "somraj-react-portfolio",
-    "homepage": "https://bootcamparankush.github.io/somraj-react-portfolio/",
+    "name": "somraj-react-my-portfolio",
     "version": "0.1.0",
     "private": true,
     "dependencies": {

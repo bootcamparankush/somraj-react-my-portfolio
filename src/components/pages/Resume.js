@@ -4,7 +4,7 @@ import React from "react";
 const styles = {
   cardBodyStyle: {
     padding: "10px",
-    background: "#222831",
+    background: "gray",
     opacity: "0.8",
     color: "white",
     paddingBottom: "50px",
@@ -23,7 +23,7 @@ export default function Resume() {
           <i className="bi bi-arrow-down-circle-fill"></i>
           <a
             style={styles.linkStyle}
-            href="./assets/psomraj_resume.pdf"
+            href="../assets/resume.pdf"
             download
           >
             Click to download my resume
