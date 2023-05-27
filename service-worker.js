@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/somraj-react-portfolio/precache-manifest.202f4623121db7c36cfae0a8d8a90a31.js"
+  "/somraj-react-my-portfolio/precache-manifest.7686ea176a95fa9d28fc763a318ef6d1.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/somraj-react-portfolio/index.html", {
+workbox.routing.registerNavigationRoute("/somraj-react-my-portfolio/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
