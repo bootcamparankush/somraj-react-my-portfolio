@@ -1,17 +1,16 @@
 {
-  "main.css": "/somraj-react-my-portfolio/static/css/main.ac4caa22.chunk.css",
-  "main.js": "/somraj-react-my-portfolio/static/js/main.f85ca6a7.chunk.js",
-  "main.js.map": "/somraj-react-my-portfolio/static/js/main.f85ca6a7.chunk.js.map",
-  "static/js/1.3c11774c.chunk.js": "/somraj-react-my-portfolio/static/js/1.3c11774c.chunk.js",
-  "static/js/1.3c11774c.chunk.js.map": "/somraj-react-my-portfolio/static/js/1.3c11774c.chunk.js.map",
-  "static/css/2.6378253b.chunk.css": "/somraj-react-my-portfolio/static/css/2.6378253b.chunk.css",
-  "static/js/2.dbcd5ccb.chunk.js": "/somraj-react-my-portfolio/static/js/2.dbcd5ccb.chunk.js",
-  "static/js/2.dbcd5ccb.chunk.js.map": "/somraj-react-my-portfolio/static/js/2.dbcd5ccb.chunk.js.map",
-  "runtime~main.js": "/somraj-react-my-portfolio/static/js/runtime~main.21d2581e.js",
-  "runtime~main.js.map": "/somraj-react-my-portfolio/static/js/runtime~main.21d2581e.js.map",
-  "static/css/main.ac4caa22.chunk.css.map": "/somraj-react-my-portfolio/static/css/main.ac4caa22.chunk.css.map",
-  "static/css/2.6378253b.chunk.css.map": "/somraj-react-my-portfolio/static/css/2.6378253b.chunk.css.map",
-  "index.html": "/somraj-react-my-portfolio/index.html",
-  "precache-manifest.7686ea176a95fa9d28fc763a318ef6d1.js": "/somraj-react-my-portfolio/precache-manifest.7686ea176a95fa9d28fc763a318ef6d1.js",
-  "service-worker.js": "/somraj-react-my-portfolio/service-worker.js"
+  "files": {
+    "main.css": "/somraj-react-my-portfolio/static/css/main.55eb6471.css",
+    "main.js": "/somraj-react-my-portfolio/static/js/main.c25e573b.js",
+    "static/js/787.0c3dca22.chunk.js": "/somraj-react-my-portfolio/static/js/787.0c3dca22.chunk.js",
+    "static/media/portfolio-background.jpg": "/somraj-react-my-portfolio/static/media/portfolio-background.4a535b37d5d256792517.jpg",
+    "index.html": "/somraj-react-my-portfolio/index.html",
+    "main.55eb6471.css.map": "/somraj-react-my-portfolio/static/css/main.55eb6471.css.map",
+    "main.c25e573b.js.map": "/somraj-react-my-portfolio/static/js/main.c25e573b.js.map",
+    "787.0c3dca22.chunk.js.map": "/somraj-react-my-portfolio/static/js/787.0c3dca22.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55eb6471.css",
+    "static/js/main.c25e573b.js"
+  ]
 }
